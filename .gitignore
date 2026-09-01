@@ -11,8 +11,6 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-# Terraform sensitive files
-.terraform.lock.hcl
 
 # Environment variables
 .env
